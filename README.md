@@ -52,13 +52,13 @@ _This edition is provisional. Remarks, comments, and corrections are welcome._
 
 ### Citations
 
-- [Sur les représentations du groupe fondamental d'une variété privée d'un diviseur à croisements normaux simples](http://math.univ-lille1.fr/~borne/Recherche/SimpNormCros.pdf), Niels Borne
-- On the profinite fundamental group of a connected Grothendieck topos, Clemens Berger, Victor Iwaniack. [arXiv:2304.05338](https://arxiv.org/abs/2304.05338)
-- La tour de Teichmüller-Grothendieck, Vincent Zoonekynd. [Thesis](http://zoonek.free.fr/Ecrits/) 2001
-- [Théorème de Van Kampen pour les champs algébriques](http://www.numdam.org/item/AMBP_2002__9_1_101_0/). Vincent Zoonekynd.
-- [Faisceaux localement asphériques](https://cisinski.app.uni-regensburg.de/mtest2.pdf), Denis-Charles Cisinski
-- Géométrie anabélienne tempérée, Emmanuel Lepage. [arXiv:1004.2150](https://arxiv.org/abs/1004.2150)
-- Pure Galois theory in categories, George Janelidze
+- [_Sur les représentations du groupe fondamental d'une variété privée d'un diviseur à croisements normaux simples_](http://math.univ-lille1.fr/~borne/Recherche/SimpNormCros.pdf), Niels Borne
+- _On the profinite fundamental group of a connected Grothendieck topos_, Clemens Berger, Victor Iwaniack. [arXiv:2304.05338](https://arxiv.org/abs/2304.05338)
+- _La tour de Teichmüller-Grothendieck_, Vincent Zoonekynd. [Thesis](http://zoonek.free.fr/Ecrits/) 2001
+- [_Théorème de Van Kampen pour les champs algébriques_](http://www.numdam.org/item/AMBP_2002__9_1_101_0/). Vincent Zoonekynd.
+- [_Faisceaux localement asphériques_](https://cisinski.app.uni-regensburg.de/mtest2.pdf), Denis-Charles Cisinski
+- _Géométrie anabélienne tempérée_, Emmanuel Lepage. [arXiv:1004.2150](https://arxiv.org/abs/1004.2150)
+- _Pure Galois theory in categories_, George Janelidze
 
 ...
 
